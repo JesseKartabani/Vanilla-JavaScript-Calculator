@@ -1,6 +1,6 @@
 # Vanilla JavaScript Calculator
 
-## [Live website](https://jesse1224.github.io/Vanilla-JavaScript-Calculator/)
+## [Live website](https://jessekartabani.github.io/Vanilla-JavaScript-Calculator/)
 
 Pure vanilla JavaScript calculator using modern ES6 syntax and classes
 
